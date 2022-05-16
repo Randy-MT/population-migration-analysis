@@ -2,12 +2,14 @@
 
 ### About The Project
 ***
-An analysis of migration patterns within the United States and the plausible underlying statistically significant contributors.
+An analysis of migration patterns within the United States and the plausible underlying statistically significant contributors.  Uses a comparitive analysis between two isolated timeframes within each dataset.  Findings are summarized within a final report.
 ### Usage
 ***
-Interactive widgets are incorporated within the notebook.  Customizing the widgets adds or removes weighting within individual metrics to provide a customized search based on the personal importance of each metric.
+Widgets within the notebook can be used to provide more weighting within individualized timeframes.
 
-![image](https://user-images.githubusercontent.com/105223924/168596683-21059447-360d-4b53-8c79-a93979d4b12e.png)
+![image](https://user-images.githubusercontent.com/105223924/168612259-65c27e4d-5fc6-4f28-b13b-5a9a1401a204.png)
+![image](https://user-images.githubusercontent.com/105223924/168612852-4a32989c-95df-4204-a531-5015d4cb4f80.png)
+
 
 ### Future Considerations 
 ***
